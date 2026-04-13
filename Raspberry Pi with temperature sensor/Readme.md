@@ -4,16 +4,6 @@ A simple IoT project using Raspberry Pi and DHT11 sensor to measure temperature 
 
 ---
 
-## 📸 Project Preview
-
-### 🔌 Hardware Setup
-![Setup](Raspberry Pi with temperature sensor/CircuitSetup .jpeg )
-
-### 💻 Output 
-![Output](Raspberry Pi with temperature sensor/Output.jpeg)
-
----
-
 ## 🧰 Components
 
 - Raspberry Pi
