@@ -39,6 +39,15 @@ Control an LED using Raspberry Pi GPIO pins with Python. This beginner-friendly 
 - Python 3
 - RPi.GPIO library
 
+---
 
+## ▶️ How to Run
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/your-username/raspberry-pi-led-project.git
+cd raspberry-pi-led-project
+
+'''
 ```bash
 pip install RPi.GPIO
